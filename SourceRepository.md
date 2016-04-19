@@ -1,0 +1,1 @@
+This project's Git repositories are hosted at Gitorious: http://gitorious.org/openvp.
